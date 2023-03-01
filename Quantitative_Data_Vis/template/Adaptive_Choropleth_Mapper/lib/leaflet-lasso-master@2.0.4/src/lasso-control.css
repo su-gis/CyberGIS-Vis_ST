@@ -1,0 +1,4 @@
+.leaflet-control-lasso {
+    background: inline('./select-control.png');
+    background-size: 22px;
+}
