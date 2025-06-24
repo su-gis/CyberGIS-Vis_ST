@@ -16,7 +16,7 @@ CyberGIS-Vis integrates cutting-edge cyberGIS and online visualization capabilit
 
 **Example visaulizations are available in the jupyter notebooks folders below:**<br/>
 *	Adaptive_Chropleth_Mapper.ipynb <br/>
-*	Categorical_Data_Vis <br/>
+*	Space_Time-COVID19.ipynb <br/>
 <br/>
 
 **You can run CyberGIS-Vis in your Jupyter Notebook installed on your PC as well as in CybearGISX. We recommend that you use CyberGISX because all the required packages have been integrated in CyberGISX.**<br/><br/>
@@ -57,8 +57,8 @@ CyberGIS-Vis integrates cutting-edge cyberGIS and online visualization capabilit
 ```   
 5. Open Jupyter notebook below and run.
 ```bash
-        Quantitative_Data_Vis/Adaptive_Chropleth_Mapper.ipynb
-        Categorical_Data_Vis/Qualitative_Analysis_Mapper.ipynb
+        Adaptive_Chropleth_Mapper.ipynb
+	Space_Time-COVID19.ipynb
 ``` 
 <br/><br/>
 
