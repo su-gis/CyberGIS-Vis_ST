@@ -14,8 +14,8 @@ CyberGIS-Vis integrates cutting-edge cyberGIS and online visualization capabilit
 
 ## QuickStart
 
-**Example visaulizations are available in the two folders below:**<br/>
-*	Quantitative_Data_Vis <br/>
+**Example visaulizations are available in the jupyter notebooks folders below:**<br/>
+*	Adaptive_Chropleth_Mapper.ipynb <br/>
 *	Categorical_Data_Vis <br/>
 <br/>
 
@@ -23,7 +23,7 @@ CyberGIS-Vis integrates cutting-edge cyberGIS and online visualization capabilit
 
 **To use it in CyberGISX, follow steps below:**
 1. If you do not have a CyerGISX account, create a CyberGISX account with your GitHub id at https://cybergisxhub.cigi.illinois.edu
-2. Begin by clicking the yellow 'Open with CyberGISX' button in this published notebook, available at this [link](https://cybergisxhub.cigi.illinois.edu/notebook/cybergis-viz-for-democratizing-access-to-scalable-geovisualization-2nd-version/).
+2. Begin by clicking the yellow 'Open with CyberGISX' button in this published notebook, available at this [link](https://cybergisxhub.cigi.illinois.edu/notebook/cybergis-vis-for-democratizing-access-to-scalable-spatiotemporal-geovisual-analytics-a-case-study-of-covid-19/).
    
 **To run in the loca environment, follow steps below.**
 1. Download and install Anaconda at https://www.anaconda.com/.
@@ -36,8 +36,7 @@ CyberGIS-Vis integrates cutting-edge cyberGIS and online visualization capabilit
 ``` 
 3. Open Python Script below.
 ```bash
-        Quantitative_Data_Vis/Adaptive_Chropleth_Mapper.py
-        Categorical_Data_Vis/Qualitative_Analysis_Mapper.py
+        Adaptive_Chropleth_Mapper.py
 ```
 4. Comment and uncomment out like below. These are related to create URLs in the Jupyter Server. 
 ```bash
