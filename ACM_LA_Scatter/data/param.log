@@ -1,0 +1,18 @@
+2024-07-01 00:27:40 ACM_LA_Scatter
+
+  {'title': 'Adaptive Choropleth Mapper with Scatter Plot',
+   'filename_suffix': 'LA_Scatter',
+   'shortLabelCSV': 'attributes/LTDB_ShortLabel.csv',
+   'variables': ['p_nonhisp_white_persons', 'p_nonhisp_black_persons',
+                 'p_hispanic_persons', 'p_asian_persons', 'p_foreign_born_pop',
+                 'p_edu_college_greater', 'p_unemployment_rate',
+                 'p_employed_manufacturing', 'p_poverty_rate',
+                 'p_vacant_housing_units', 'p_owner_occupied_units',
+                 'p_housing_units_multiunit_structures', 'median_home_value',
+                 'p_structures_30_old', 'p_household_recent_move',
+                 'p_persons_under_18', 'p_persons_over_60'],
+   'InitialLayers': ['2010_% edu college greater',
+                     '2010_% employed manufacturing'],
+   'Map_width': '470px',
+   'Map_height': '450px',
+   'Scatter_Plot': True}

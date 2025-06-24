@@ -1,0 +1,15 @@
+2023-04-06 14:12:24 ACM_HIV_CLC
+
+  {'title': 'Adaptive Choropleth Mapper with Comparison Line Chart',
+   'Subject': 'Temporal Patterns',
+   'filename_suffix': 'HIV_CLC',
+   'variables': ['HIV'],
+   'NumOfMaps': 2,
+   'Initial_map_center': [37, -97],
+   'Initial_map_zoom_level': 4,
+   'Map_width': '650px',
+   'Map_height': '410px',
+   'Top10_Chart': True,
+   'Comparision_Chart': True,
+   'DefaultRegion_CLC': ['36061', '12086'],
+   'NumOfCLC': 7}
